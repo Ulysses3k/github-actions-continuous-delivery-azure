@@ -1,0 +1,16 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "0f7ac567-523f-444a-b7a5-9c30bbe280d9",
+    "id": "cd2a3740-1ef9-4f96-a36d-33bb89bcd6b1",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Azure subscription 1",
+    "state": "Enabled",
+    "tenantId": "0f7ac567-523f-444a-b7a5-9c30bbe280d9",
+    "user": {
+      "name": "ceconomoujr@gmail.com",
+      "type": "user"
+    }
+  }
+]
